@@ -13,7 +13,7 @@ Este projeto consiste em um **banco de dados relacional** para um sistema de ges
 
 ## Estrutura do Banco de Dados
 
-### 🔹 **Tabelas Principais:**
+### **Tabelas:**
 - `conta` → Define se o cliente é Pessoa Física (PF) ou Jurídica (PJ).
 - `cliente_pf` → Contém os dados de clientes Pessoa Física.
 - `cliente_pj` → Contém os dados de clientes Pessoa Jurídica.
