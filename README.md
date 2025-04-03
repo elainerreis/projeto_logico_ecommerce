@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestão de Pedidos e Pagamentos
+# Sistema de Gestão de Pedidos e Pagamentos
 
 ## Sobre o Projeto
 Este projeto consiste em um **banco de dados relacional** para um sistema de gestão de pedidos, pagamentos, clientes (PF e PJ), fornecedores e estoque. O banco foi modelado para suportar a estrutura necessária para um e-commerce ou marketplace, permitindo o gerenciamento de:
@@ -32,20 +32,8 @@ Este projeto consiste em um **banco de dados relacional** para um sistema de ges
 
 ---
 
-## Como Executar o Projeto
 
-### **1. Clone o repositório**
-```bash
-$ git clone https://github.com/elainerreis/projeto_logico_ecommerce.git
-$ cd projeto-banco-dados
-```
 
-### 🏗️ **2. Criação do Banco de Dados**
-Acesse o **MySQL** e execute os scripts SQL disponíveis no projeto:
-```sql
-CREATE DATABASE ecommerce_db;
-USE ecommerce_db;
-```
 
 
 

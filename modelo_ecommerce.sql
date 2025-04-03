@@ -139,11 +139,3 @@ primary key(produto_idProduto, estoque_idEstoque),
 constraint fk_produto_estoque foreign key (produto_idProduto) references produto(idProduto),
 constraint fk_estoque_produto foreign key (estoque_idEstoque) references estoque(idEstoque));
 
--- show databases;
-
--- use information_schema;
-
--- show tables;
-
--- desc REFERENTIAL_CONSTRAINTS;
--- select * from REFERENTIAL_CONSTRAINTS where constraint_schema = "ecommerce2";
